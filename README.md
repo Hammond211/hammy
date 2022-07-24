@@ -1,0 +1,2 @@
+# hammy
+Learning Github
